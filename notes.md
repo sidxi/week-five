@@ -44,7 +44,7 @@ Like was suggested, I used http://localhost:8000/ instead of http://0.0.0.0:8000
 ![webmap fix proof](https://github.com/sidxi/week-five/blob/master/Errors%20%26%20Fixes/Week5%20Fix%20webmap%20hosting%20site%20can't%20be%20reached%202.PNG)
 
 # Questions I asked
-I actually didn’t ask any questions this week! I was, however, able to provide an answer to one of my classmates for an error I had also had in last week’s content:
+I actually didn’t ask any questions this week, which was surprising. I was, however, able to provide an answer to one of my classmates for an error I had also had in last week’s content:
 
 ![helping a classmate yay](https://github.com/sidxi/week-five/blob/master/Week5%20Michael%20Q%20Answered.PNG)
 
