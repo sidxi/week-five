@@ -31,7 +31,7 @@
 * https://en.wikipedia.org/wiki/Decimal_degrees
 
 # Errors I had
-I actually only had one error this week, perhaps because I have a _little_ more familiarity with the tools we were working with. This week, Webmap initially wasn't working for me
+I actually only had one error this week, perhaps because I have a _little_ more familiarity with the tools we were working with. This week, Webmap initially wasn't working for me:
 
 ![webmap not working](https://github.com/sidxi/week-five/blob/master/Errors%20%26%20Fixes/Week5%20Error%20webmap%20hosting%20site%20can't%20be%20reached.PNG)
 
