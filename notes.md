@@ -64,7 +64,7 @@ It’s truly joyful to be able to be able to help someone so they're less frustr
 *	Tbh, the hardest part with mapify was coming up with a story that had a strong location motive. Also, the locating abilities weren’t quite as sensitive as I was hoping they would be! Alas...
 *	Webmaps!
   * On a webmap, the z value (zoom level) has a range between 0 and 21, where 21 returns a tile with greatest detail (and smallest sized tile)
-  *	I did look at other maps, but the one you chose is the most easily recognizeable spot and despite spending 4 years in Ottawa, I still don’t know the city as well as I would have lived to
+  *	I did look at other maps, but the one Dr. Graham chose is the most easily recognizeable spot and despite spending 4 years in Ottawa, I still don’t know the city as well as I would have lived to
     *	Also, adding in the control points felt like I was playing a strange game of where’s waldo/spot the difference – instead, it was “find the similarity”!
   *	What is metadata, _really_? I know that it’s “data about data,” and I know that it provides important information about what data is & the information it contains, but what does that actually mean?
   *	Dr. Graham didn’t specify whether we should take the first map out after we’d put the georectified map in, so I didn’t *shrugs*
