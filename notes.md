@@ -1,3 +1,10 @@
+# Quick Links
+* [New terms, alphabetical](#New-terms,-alphabetical)
+* [Resources I found useful](#Resources-I-found-useful)
+* [Errors I had](#Errors-I-had)
+* [Questions I asked](#Questions-I-asked)
+* [Other thoughts](#Other-thoughts)
+
 # New terms, alphabetical
 * 7z: a compressed archive file format that supports several different data compression, encryption and pre-processing algorithms.
 * Decimal degrees (DD): express latitude and longitude geographic coordinates as decimal fractions and are used in many geographic information systems (GIS), web mapping applications such as OpenStreetMap, and GPS devices. Decimal degrees are an alternative to using degrees, minutes, and seconds (DMS). As with latitude and longitude, the values are bounded by ±90° and ±180° respectively.
@@ -59,7 +66,7 @@ It’s truly joyful to be able to be able to help someone so they're less frustr
   * On a webmap, the z value (zoom level) has a range between 0 and 21, where 21 returns a tile with greatest detail (and smallest sized tile)
   *	I did look at other maps, but the one you chose is the most easily recognizeable spot and despite spending 4 years in Ottawa, I still don’t know the city as well as I would have lived to
     *	Also, adding in the control points felt like I was playing a strange game of where’s waldo/spot the difference – instead, it was “find the similarity”!
-  *	What is metadata, _really¬_? I know that it’s “data about data,” and I know that it provides important information about what data is & the information it contains, but what does that actually mean?
+  *	What is metadata, _really_? I know that it’s “data about data,” and I know that it provides important information about what data is & the information it contains, but what does that actually mean?
   *	Dr. Graham didn’t specify whether we should take the first map out after we’d put the georectified map in, so I didn’t *shrugs*
   *	You should have SEEN my face when I made the 3rd marker move – I looked at it my mouth DROPPED. I couldn’t believe it, it felt like magic
   *	To me, a map has to have a zoom. Even though our map doesn’t _NEED_ a zoom, I’ve literally never seen a digital map without a zoom (and let’s be real, the only times I’ve really used non-digital maps is in textbooks or art projects). So I created a fourth index to put [this one](https://github.com/kartena/Leaflet.Pancontrol) in my map, pulled from [the list Dr. Graham gave us](https://leafletjs.com/plugins.html)
