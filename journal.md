@@ -1,4 +1,4 @@
-# Journal Six
+# Reflection
 
 This week, I was particularly drawn to both sound (sonification in particular) and mapping. While I enjoyed playing with Inkscape, which was a new software for me, I do graphic design as a part of my job, and wanted to spend my time learning some new skills. I also had fun delving into building a website, but I feel like I spent less time on that overall and was more captivated by the new forms of representation and storytelling that sound and maps afforded me. 
 
